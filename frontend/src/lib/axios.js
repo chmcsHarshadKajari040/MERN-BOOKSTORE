@@ -1,5 +1,5 @@
 import axios from "axios";
 const api = axios.create({
-    baseURL: 'https://bookstore-o56d.onrender.com'
+    baseURL: 'https://mern-bookstore-7xrq.onrender.com'
 })
 export default api 
